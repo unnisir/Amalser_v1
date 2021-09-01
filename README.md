@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
- https://github.com/Amalser_v1 |  
+  [![Achusir](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
+ https://git.heroku.com/achumonn.git |  
 ----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
+[Its_me_Achu](https://git.heroku.com/achumonn.git)  |
 Base, Bug Fixes, Modules | 
   
     
